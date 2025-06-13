@@ -1,0 +1,5 @@
+python-docx==0.8.11
+gradio==4.19.2
+langchain==0.1.9
+faiss-cpu==1.7.4
+sentence-transformers==2.5.1 
