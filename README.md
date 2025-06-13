@@ -1,5 +1,5 @@
  구현 흐름
-PDF → 텍스트 추출 (PyMuPDF, )
+PDF → 텍스트 추출 (PyMuPDF)
 
 텍스트 → Chunk 분할 (LangChain TextSplitter)
 
